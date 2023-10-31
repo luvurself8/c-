@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\bin\Debug\net7.0\6th.exe
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\bin\Debug\net7.0\6th.deps.json
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\bin\Debug\net7.0\6th.runtimeconfig.json
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\bin\Debug\net7.0\6th.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\bin\Debug\net7.0\6th.pdb
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.AssemblyInfo.cs
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\refint\6th.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.pdb
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\6th.genruntimeconfig.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\6th\obj\Debug\net7.0\ref\6th.dll
