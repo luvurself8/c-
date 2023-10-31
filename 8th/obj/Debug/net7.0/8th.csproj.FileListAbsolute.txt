@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\bin\Debug\net7.0\8th.exe
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\bin\Debug\net7.0\8th.deps.json
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\bin\Debug\net7.0\8th.runtimeconfig.json
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\bin\Debug\net7.0\8th.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\bin\Debug\net7.0\8th.pdb
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.AssemblyInfo.cs
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\refint\8th.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.pdb
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\8th.genruntimeconfig.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\8th\obj\Debug\net7.0\ref\8th.dll
