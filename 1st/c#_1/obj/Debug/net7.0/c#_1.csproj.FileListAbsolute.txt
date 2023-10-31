@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\bin\Debug\net7.0\c#_1.exe
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\bin\Debug\net7.0\c#_1.deps.json
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\bin\Debug\net7.0\c#_1.runtimeconfig.json
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\bin\Debug\net7.0\c#_1.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\bin\Debug\net7.0\c#_1.pdb
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.AssemblyInfo.cs
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\refint\c#_1.dll
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.pdb
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\c#_1.genruntimeconfig.cache
+C:\Users\User\OneDrive\바탕 화면\workspace\c#\c#_1\obj\Debug\net7.0\ref\c#_1.dll
